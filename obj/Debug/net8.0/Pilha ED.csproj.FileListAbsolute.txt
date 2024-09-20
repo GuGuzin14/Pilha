@@ -1,0 +1,14 @@
+C:\Users\aluno\Desktop\Pilha ED\bin\Debug\net8.0\Pilha ED.exe
+C:\Users\aluno\Desktop\Pilha ED\bin\Debug\net8.0\Pilha ED.deps.json
+C:\Users\aluno\Desktop\Pilha ED\bin\Debug\net8.0\Pilha ED.runtimeconfig.json
+C:\Users\aluno\Desktop\Pilha ED\bin\Debug\net8.0\Pilha ED.dll
+C:\Users\aluno\Desktop\Pilha ED\bin\Debug\net8.0\Pilha ED.pdb
+C:\Users\aluno\Desktop\Pilha ED\obj\Debug\net8.0\Pilha ED.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\Pilha ED\obj\Debug\net8.0\Pilha ED.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\Pilha ED\obj\Debug\net8.0\Pilha ED.AssemblyInfo.cs
+C:\Users\aluno\Desktop\Pilha ED\obj\Debug\net8.0\Pilha ED.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Pilha ED\obj\Debug\net8.0\Pilha ED.dll
+C:\Users\aluno\Desktop\Pilha ED\obj\Debug\net8.0\refint\Pilha ED.dll
+C:\Users\aluno\Desktop\Pilha ED\obj\Debug\net8.0\Pilha ED.pdb
+C:\Users\aluno\Desktop\Pilha ED\obj\Debug\net8.0\Pilha ED.genruntimeconfig.cache
+C:\Users\aluno\Desktop\Pilha ED\obj\Debug\net8.0\ref\Pilha ED.dll
